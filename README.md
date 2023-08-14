@@ -8,4 +8,4 @@ My Future Skills will be:
 - HTML
 - CSS
 - Javascript
-![Futur Skills](https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png)
+![Futur Skills](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
